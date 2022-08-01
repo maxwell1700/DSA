@@ -1,4 +1,4 @@
-package project1.src.com.company;
+package project1;
 
 import java.util.Arrays;
 import java.util.Scanner;
